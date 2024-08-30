@@ -34,7 +34,7 @@ I'm open to collaborating on Flutter projects, especially those involving comple
 - **[Project Name 1](https://github.com/yourusername/project1):** Brief description of what this project does and why it's cool.
 - **[Project Name 2](https://github.com/yourusername/project2):** Another project description highlighting its unique features.
 -->
-
+<!--
 ## 💡 Fun Fact
 I love solving complex problems and turning ideas into reality through code. When I'm not coding, you can find me exploring new technologies or working on side projects.
 
