@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Fauzi Fajar!
 
 Welcome to my GitHub profile! I'm a passionate **Flutter Developer** with nearly 1 year of experience in building responsive and user-friendly mobile applications. I have a strong understanding of Dart, Flutter widgets, and API integration, and I'm always eager to learn new technologies and collaborate on exciting projects.
-
+<!--
 ## 🚀 Skills and Technologies
 - **Languages:** Dart, JavaScript, Php, HTML, CSS
 - **Frameworks/Libraries:** Flutter, Tailwind CSS, Next.js, Laravel
