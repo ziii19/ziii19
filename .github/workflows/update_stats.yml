@@ -1,0 +1,35 @@
+name: WakaTime Stats Update
+
+on:
+  schedule:
+    # Setiap hari workflow ini akan berjalan pada jam 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      # Step pertama: Checkout repository
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      # Step kedua: Install WakaTime Readme Stats
+      - name: WakaTime Readme Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+      # Step ketiga: Commit perubahan jika ada
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update wakatime stats" || echo "No changes to commit"
+
+      # Step keempat: Push ke GitHub
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
