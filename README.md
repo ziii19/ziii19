@@ -22,7 +22,7 @@ I'm open to collaborating on Flutter projects, especially those involving comple
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/fauzi-fajar-alfalah)
-- **Instagram:** [Instagram](https://twitter.com/_ziii08)
+- **Instagram:** [Instagram](https://instagram.com/_ziii08)
 
 ## 📊 GitHub Stats
 <!--
