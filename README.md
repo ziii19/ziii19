@@ -45,8 +45,13 @@ Thanks for stopping by! Let's build something amazing together 🚀
 ### 🕒 WakaTime Stats
 <!--START_SECTION:waka-->
 
-<!--[![wakatime](https://wakatime.com/badge/user/ff3affd3-42b1-43a2-a2be-dac3bd0589f1.svg)](https://wakatime.com/@ff3affd3-42b1-43a2-a2be-dac3bd0589f1)-->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ziii19&theme=tokyonight&layout=compact)](https://wakatime.com/@ziii19)
+```txt
+Dart         23 hrs 3 mins   ███████████████████████░░   91.60 %
+JavaScript   1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
 
 <!--END_SECTION:waka-->
 
