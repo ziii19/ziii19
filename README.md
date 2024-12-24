@@ -43,16 +43,10 @@ Thanks for stopping by! Let's build something amazing together 🚀
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ziii19.ziii19)
 
 ### 🕒 WakaTime Stats
+<!--[![wakatime](https://wakatime.com/badge/user/ff3affd3-42b1-43a2-a2be-dac3bd0589f1.svg)](https://wakatime.com/@ff3affd3-42b1-43a2-a2be-dac3bd0589f1)-->
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ziii19&theme=tokyonight&layout=compact)](https://wakatime.com/@ziii19)
+
 <!--START_SECTION:waka-->
-
-```txt
-Dart              14 hrs 43 mins  ██████████████▓░░░░░░░░░░   59.05 %
-PHP               4 hrs           ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-TypeScript        2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-JavaScript        1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-Groovy            1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-```
-
 <!--END_SECTION:waka-->
 
 
