@@ -47,6 +47,15 @@ Thanks for stopping by! Let's build something amazing together 🚀
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ziii19&theme=tokyonight&layout=compact)](https://wakatime.com/@ziii19)
 
 <!--START_SECTION:waka-->
+
+```txt
+Dart              15 hrs 44 mins  ██████████████▒░░░░░░░░░░   57.98 %
+PHP               4 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+TypeScript        2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Groovy            2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+JavaScript        1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+```
+
 <!--END_SECTION:waka-->
 
 
