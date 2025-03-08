@@ -25,10 +25,10 @@ I'm open to collaborating on Flutter projects, especially those involving comple
 - **Instagram:** [Instagram](https://instagram.com/_ziii08)
 
 ## 📊 GitHub Stats
-<!--
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziii19&show_icons=true&theme=radical)
--->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziii19&layout=compact&theme=radical)
+<a href="https://github.com/ziii19">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziii19&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziii19&layout=compact&theme=radical"/>
+</a>
 <!--
 ## ✨ Projects I'm Proud Of
 - **[Project Name 1](https://github.com/yourusername/project1):** Brief description of what this project does and why it's cool.
